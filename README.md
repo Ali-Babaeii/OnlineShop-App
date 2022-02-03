@@ -1,11 +1,29 @@
-# Sample Snack app
+# Online Shop App
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
+[![built with expo](https://img.shields.io/badge/MADE%20WITH%20EXPO-000.svg?style=for-the-badge&logo=expo&labelColor=4630eb&logoWidth=20)](https://github.com/expo/expo) [![supports iOS and Android](https://img.shields.io/badge/Platforms-Native-4630EB.svg?style=for-the-badge&logo=EXPO&labelColor=000&logoColor=fff)](https://github.com/expo/expo)
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo-cli](https://docs.expo.io/get-started/installation).
+## 🚀 Tech
 
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
+- ⚛️ React-Native
+- 🖇 Expo
+- ❕ Yarn
 
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.io/c/snack).
+## ✋🏻 Prerequisites
 
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
+- [Node.js](https://nodejs.org/)
+- [Expo-cli](https://expo.io/tools#cli)
+- [Yarn](https://yarnpkg.com/)
+
+## 🔥 Install & Execute
+
+1. Clone the repo;
+2. Open the cloned repo;
+3. Run `yarn` to install the dependecies;
+4. Run `yarn start` or `expo start` to start the app;
+
+## 🔖 TODO
+
+- [ ] Add TODO here!
+
+
+
